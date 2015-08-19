@@ -1,4 +1,4 @@
-var details, searchbtn, matchedtxt, svg;
+var details, searchbtn, matchedtxt, svg, searching;
 function init(evt) {
 	details = document.getElementById("details").firstChild;
 	searchbtn = document.getElementById("search");
